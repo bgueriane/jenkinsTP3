@@ -16,7 +16,7 @@ pipeline {
                      steps {  
                               echo "Etape de déploiement"
 			      echo "si vous voyez ce message, ça veut dire que le build s'est bien déroulé"
-			      echo "build automatique après modification du code source est activé"
+			      echo "build automatique après modification 2 du code source est activé"
                           }
                               } 
                               
